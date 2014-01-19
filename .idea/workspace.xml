@@ -196,7 +196,11 @@
       <created>1390126934875</created>
       <updated>1390126934875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kkk">
+      <created>1390128886734</created>
+      <updated>1390128886734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -233,7 +237,8 @@
     </option>
     <MESSAGE value="add compposer" />
     <MESSAGE value="add smarty" />
-    <option name="LAST_COMMIT_MESSAGE" value="add smarty" />
+    <MESSAGE value="kkk" />
+    <option name="LAST_COMMIT_MESSAGE" value="kkk" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
