@@ -9,6 +9,9 @@
         }
     ],
     "require": {
-        "3rd-party/smarty": "v3.1.8"
+        "phpunit/phpunit": "3.7.29",
+        "phpunit/dbunit": "1.3.0",
+        "smarty/smarty": "v3.1.16"
+        
     }
 }
