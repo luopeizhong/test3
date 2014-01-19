@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "a96fce17e2109c4f33c22cd3951cf5f7",
+    "packages": [
+        {
+            "name": "3rd-party/smarty",
+            "version": "v3.1.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eriknyk/smarty.git",
+                "reference": "deee7829e0889ce7ad971cc3e394b41a86a99488"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eriknyk/smarty/zipball/deee7829e0889ce7ad971cc3e394b41a86a99488",
+                "reference": "deee7829e0889ce7ad971cc3e394b41a86a99488",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL"
+            ],
+            "description": "Smarty Template Engine",
+            "homepage": "http://www.smarty.net",
+            "keywords": [
+                "engine",
+                "php",
+                "smarty",
+                "template",
+                "templating"
+            ],
+            "time": "2012-06-08 20:13:28"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
